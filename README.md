@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Prasai</h1>
-<h3 align="center">AI & Backend Developer | Computer Engineering Student | Android Enthusiast</h3>
+<h3 align="center">AI & Backend Developer | Computer Engineering Student</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
