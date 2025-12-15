@@ -26,28 +26,33 @@
 
 ## About Me
 
-```python
-class SandeshPrasai:
-    def __init__(self):
-        self.name = "Sandesh Prasai"
-        self.title = "AI Engineer & Backend Developer"
-        self.education = "Computer Engineering (7th Semester)"
-        self.location = "Nepal"
+```javascript
+const sandesh = {
+  name: "Sandesh Prasai",
+  role: "Computer Engineering Student",
+  location: "Nepal",
 
-    def focus(self):
-        return [
-            "AI/ML model development and evaluation",
-            "Scalable backend architecture and REST APIs",
-            "Android applications integrated with AI",
-            "Mentoring and technical training"
-        ]
+  focusAreas: [
+    "Backend Development",
+    "Mobile Applications"
+    "AI / ML Engineering",
+  ],
 
-    def highlights(self):
-        return {
-            "ISTN Hackathon": "Winner — Real-Time Accident Reporting System",
-            "Trainer": "Python & Git workshops",
-            "Major Project": "AI-Powered Attendance System"
-        }
+  currentWork: [
+    "Building AI-powered applications",
+    "Developing scalable backend systems",
+    "Training ML models for real-world problems"
+  ],
+
+  achievements: [
+    "🏆 Hackathon Winner – Real-Time Accident Reporting System",
+    "🎓 Python & Git Technical Trainer",
+    "🤝 Open Source Contributor"
+  ]
+};
+
+export default sandesh;
+
 ```
 
 ---
@@ -157,15 +162,44 @@ Real-Time Systems & Innovation
 
 ## GitHub Statistics
 
-<div align="center">
+## GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandeshprasai&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshprasai&theme=radical&hide_border=true" />
+## GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshprasai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshprasai&theme=cobalt&hide_border=true" />
+## GitHub Statistics
 
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=sandeshprasai&show_icons=true&theme=radical&hide_border=true&count_private=true"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=sandeshprasai&theme=radical&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshprasai&layout=compact&theme=radical&hide_border=true&langs_count=8"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshprasai&theme=cobalt&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 ---
@@ -219,7 +253,7 @@ Open to collaboration on AI/ML applications, backend system design, Android deve
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/sandesh-prasai-6bb875333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>zz
   </a>
   <a href="https://www.facebook.com/iamsandeshprasai">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
