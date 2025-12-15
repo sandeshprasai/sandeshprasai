@@ -159,24 +159,15 @@ Real-Time Systems & Innovation
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandeshprasai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshprasai&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandeshprasai&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeshprasai&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshprasai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshprasai&theme=tokyo-night&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeshprasai&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshprasai&theme=cobalt&hide_border=true" />
 
 </div>
 
 ---
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandeshprasai\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=7\&margin-w=10\&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## Current Focus
@@ -201,8 +192,7 @@ Contributing:
 ## Contribution Graph
 
 <div align="center">
-
-![Snake animation](https://github.com/sandeshprasai/sandeshprasai/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeshprasai&theme=cobalt&hide_border=true&area=true" />
 
 </div>
 
@@ -212,7 +202,7 @@ Contributing:
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=solarized-radical)
 
 </div>
 
